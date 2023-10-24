@@ -1,7 +1,7 @@
-# Writing fiction using Langchain Chains and OpenAI
-# Getting Started with GenAI
+# Getting Started with GenAI with Langchain
 
 This is a sample project that demonstrates how to use LangChain and OpenAI APIs to build generative AI applications.
+This code generates a short story using any idea that you provide.
 
 ## Prerequisites
 
