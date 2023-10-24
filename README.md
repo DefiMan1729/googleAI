@@ -1,1 +1,1 @@
-# Writing a fiction using Langchain Chains and OpenAI
+# Writing fiction using Langchain Chains and OpenAI
